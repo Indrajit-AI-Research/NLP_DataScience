@@ -10,8 +10,8 @@ export const headData = {
 // HERO DATA
 export const heroData = {
   title: '',
-  name: '',
-  subtitle: '',
+  name: 'Indrajit Singh',
+  subtitle: 'NLP Researcher',
   cta: '',
 };
 
