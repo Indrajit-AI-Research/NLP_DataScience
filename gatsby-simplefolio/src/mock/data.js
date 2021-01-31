@@ -23,7 +23,8 @@ export const aboutData = {
     'I have complete faith in the focus and the energy that drives me to do greater things in life , is my pure intention and love towards executing any task. ',
   paragraphThree:
     ' Instead of just start working on something I keep my faith in creating interest and attention towards doing that',
-  resume: 'https://www.resumemaker.online/es.php', // if no resume, the button will not show up
+  resume:
+    'https://github.com/Indrajit-AI-Research/NLP_DataScience/blob/master/gatsby-simplefolio/src/documents/NLP_Researcher.pdf', // if no resume, the button will not show up
 };
 
 // PROJECTS DATA
@@ -61,7 +62,7 @@ export const projectsData = [
 export const contactData = {
   cta: '',
   btn: '',
-  email: '',
+  email: 'indrajitsingh37@gmail.com',
 };
 
 // FOOTER DATA
@@ -70,7 +71,7 @@ export const footerData = {
     {
       id: nanoid(),
       name: 'twitter',
-      url: '',
+      url: 'https://twitter.com/Indrajitsingh3',
     },
     {
       id: nanoid(),
@@ -80,12 +81,12 @@ export const footerData = {
     {
       id: nanoid(),
       name: 'linkedin',
-      url: '',
+      url: 'https://www.linkedin.com/in/indrajitsinghds/',
     },
     {
       id: nanoid(),
       name: 'github',
-      url: '',
+      url: 'https://github.com/IsinghGitHub',
     },
   ],
 };
