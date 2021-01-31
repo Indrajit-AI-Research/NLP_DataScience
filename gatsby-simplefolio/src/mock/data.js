@@ -17,10 +17,12 @@ export const heroData = {
 
 // ABOUT DATA
 export const aboutData = {
-  img: 'profile.jpg',
-  paragraphOne: '',
-  paragraphTwo: '',
-  paragraphThree: '',
+  img: 'profile.png',
+  paragraphOne: 'My true story:',
+  paragraphTwo:
+    'I have complete faith in the focus and the energy that drives me to do greater things in life , is my pure intention and love towards executing any task. ',
+  paragraphThree:
+    ' Instead of just start working on something I keep my faith in creating interest and attention towards doing that',
   resume: 'https://www.resumemaker.online/es.php', // if no resume, the button will not show up
 };
 
