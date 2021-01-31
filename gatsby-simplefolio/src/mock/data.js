@@ -32,7 +32,7 @@ export const projectsData = [
   {
     id: nanoid(),
     img: 'project.jpg',
-    title: '',
+    title: 'Text-to-Speech',
     info: '',
     info2: '',
     url: '',
@@ -41,7 +41,7 @@ export const projectsData = [
   {
     id: nanoid(),
     img: 'project.jpg',
-    title: '',
+    title: 'Question Answering System',
     info: '',
     info2: '',
     url: '',
@@ -50,11 +50,11 @@ export const projectsData = [
   {
     id: nanoid(),
     img: 'project.jpg',
-    title: '',
+    title: 'Github Bugs Prediction',
     info: '',
     info2: '',
     url: '',
-    repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
+    repo: 'https://www.kaggle.com/indrajitdsc/github-bugs-prediction-using-bert-model', // if no repo, the button will not show up
   },
 ];
 
