@@ -11,7 +11,7 @@ export const headData = {
 export const heroData = {
   title: '',
   name: 'Indrajit Singh',
-  subtitle: 'NLP Researcher',
+  subtitle: 'a NLP Researcher',
   cta: '',
 };
 
