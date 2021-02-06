@@ -1,4 +1,10 @@
 module.exports = {
+  siteMetadata: {
+    title: `Simple blog template`,
+    description: `Blog Template made from scratch`,
+    author: `@gatsbyjs`,
+  },
+
   plugins: [
     `gatsby-plugin-sass`,
     `gatsby-plugin-react-helmet`,
@@ -19,6 +25,7 @@ module.exports = {
         path: `${__dirname}/src/pages/`,
       },
     },
+    `gatsby-transformer-remark`,
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
